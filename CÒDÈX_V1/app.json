@@ -5,7 +5,7 @@
   "description": "Best WhatsApp bot developed by CŒDĒX TECH",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://ibb.co/RTGPkk9q",
-  "repository": "https://github.com/coedextech/Codexv1-.git",
+  "repository": "https://github.com/idd337/codex_v1.git",
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
